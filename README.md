@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chrominux
+- 👋 Hi, I’m David!
 - 👀 I’m interested in DBT, Python, Snowflake, Data engineering and More
-- 🌱 I’m currently learning Python and DBT
+- 🌱 I’m currently learning Python, DBT & ETL technologies.
 
 <!---
 Chrominux/Chrominux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
